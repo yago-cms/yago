@@ -7,4 +7,3 @@
 *.php diff=php
 
 /.github export-ignore
-/resources/dist.tar.gz
